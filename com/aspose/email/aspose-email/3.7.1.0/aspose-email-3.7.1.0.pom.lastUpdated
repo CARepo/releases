@@ -1,0 +1,14 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Fri Jan 31 00:07:41 IST 2014
+http\://m2.modularity.net.au/releases/.error=
+http\://mavenrepo.google-api-java-client.googlecode.com/hg/.error=
+https\://oss.sonatype.org/content/repositories/releases/.lastUpdated=1390601551183
+http\://repo.maven.apache.org/maven2/.lastUpdated=1391119661613
+default-http\://download.java.net/maven/2/.lastUpdated=1390603248412
+http\://download.java.net/maven/2/.error=Could not transfer artifact com.aspose.email\:aspose-email\:pom\:3.7.1.0 from/to maven2-repository.dev.java.net (http\://download.java.net/maven/2/)\: Remotely Closed [id\: 0x50ce4a60, /0\:0\:0\:0\:0\:0\:0\:0\:51277 \:> download.java.net/137.254.120.26\:80]
+http\://repo.maven.apache.org/maven2/.error=
+http\://repository.codehaus.org/.lastUpdated=1390601551555
+http\://repository.codehaus.org/.error=
+http\://mavenrepo.google-api-java-client.googlecode.com/hg/.lastUpdated=1391119661414
+https\://oss.sonatype.org/content/repositories/releases/.error=
+http\://m2.modularity.net.au/releases/.lastUpdated=1390601549961
